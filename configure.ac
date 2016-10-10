@@ -3,7 +3,7 @@
 
 AC_PREREQ([2.69])
 AC_INIT(tinyReactor, 0.1, chen_chukun@qq.com)
-AC_INIT_AUTOMAKE(tinyReactor, 0.1, chen_chukun@qq.com)
+AM_INIT_AUTOMAKE(tinyReactor, 0.1, chen_chukun@qq.com)
 AC_CONFIG_SRCDIR([example/echo.cpp])
 AC_CONFIG_HEADERS([config.h])
 
