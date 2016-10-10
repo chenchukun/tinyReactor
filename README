@@ -1,0 +1,6 @@
+一个使用C++11实现的Reactor模式的非阻塞I/O，事件驱动网络库
+编译步骤:
+	mkdir build
+	cd build
+	../configure
+	make
